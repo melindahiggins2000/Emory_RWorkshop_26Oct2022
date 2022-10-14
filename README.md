@@ -1,8 +1,20 @@
-## Emory R Workshop: October 26, 2022
+# Emory R Workshop: October 26, 2022
+{:.no_toc}
 
 R Workshop for Emory Rollins Mobile Health Collaborative.
 
-### Workshop Instructor:
+-----
+
+by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahiggins.netlify.app/)
+
+-----
+
+* TOC 1
+{:toc}
+
+-----
+
+# Workshop Instructor:
 
 * [Melinda Higgins, PhD](https://melindahiggins.netlify.app/)
     - Director Biostatistics and Data Core
@@ -12,11 +24,27 @@ R Workshop for Emory Rollins Mobile Health Collaborative.
 
 -----
 
-### SETUP:
+# SETUP:
 
 1. Install R and RStudio
 2. Open RStudio, Click File/New Project - choose new directory, create a New Project and type in the name of your project - this will create a new folder on your computer.
 3. Then download the dataset and the R code files below and put them into this new directory on your computer. They will then show up in your new R project.
+
+-----
+
+# Session 1: 
+
+## Slides:
+
+* set 1
+* set 2
+
+# Session 2: 
+
+## files
+
+* file 1
+* file 2
 
 -----
 
