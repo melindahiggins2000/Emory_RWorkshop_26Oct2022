@@ -6,6 +6,10 @@ R Workshop for Emory Rollins Mobile Health Collaborative.
 -----
 
 by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahiggins.netlify.app/)
+Director of Biostatistics and Data Core
+Research Professor
+Office of Nursing Research
+Emory University
 
 -----
 
