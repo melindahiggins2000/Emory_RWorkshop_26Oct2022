@@ -5,7 +5,7 @@
 
 -----
 
-*## **Workshop Instructor:**
+**Workshop Instructor:**
 
 * [Melinda Higgins, PhD](https://melindahiggins.netlify.app/)
     - Director Biostatistics and Data Core
@@ -14,6 +14,8 @@
     - [melinda.higgins@emory.edu](mailto:melinda.higgins@emory.edu)
 
 -----
+
+**Table of Contents**
 
 * TOC 1
 {:toc}
