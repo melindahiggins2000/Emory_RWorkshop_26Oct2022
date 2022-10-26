@@ -1,11 +1,11 @@
 # Emory R Workshop: October 26, 2022
 {:.no_toc}
 
-## R Workshop for Emory Rollins Mobile Health Collaborative
+**R Workshop for Emory Rollins Mobile Health Collaborative**
 
 -----
 
-## Workshop Instructor:
+*## **Workshop Instructor:**
 
 * [Melinda Higgins, PhD](https://melindahiggins.netlify.app/)
     - Director Biostatistics and Data Core
@@ -35,12 +35,11 @@ This workshop will cover:
 
 * _[time permitting]_ Brief Intro to RMarkdown
 
-# SCHEDULE
+# Schedule - links to slides and R scripts
 
 :spiral_calendar: October 22, 2022  
 :alarm_clock:     17:00 - 19:30
 
-## Schedule
 
 | Time          | Activity         |
 | :------------ | :--------------- |
