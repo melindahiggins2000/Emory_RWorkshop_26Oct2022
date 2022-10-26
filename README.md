@@ -37,8 +37,8 @@ This workshop will cover:
 
 # SCHEDULE
 
-`r fontawesome::fa(name = "calendar")`: October 26, 2022  
-`r emo::clock(as.POSIXct("2022-10-26 17:00:00 EDT"))`: 5:00 pm - 6:00 pm
+:spiral_calendar: October 22, 2022  
+:alarm_clock:     17:00 - 19:30
 
 ## Schedule
 
