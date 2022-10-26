@@ -5,11 +5,13 @@
 
 -----
 
-by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahiggins.netlify.app/)
-Director of Biostatistics and Data Core
-Research Professor
-Office of Nursing Research
-Emory University
+## Workshop Instructor:
+
+* [Melinda Higgins, PhD](https://melindahiggins.netlify.app/)
+    - Director Biostatistics and Data Core
+    - Office of Nursing Research
+    - School of Nursing - Emory University
+    - [melinda.higgins@emory.edu](mailto:melinda.higgins@emory.edu)
 
 -----
 
@@ -19,13 +21,15 @@ Emory University
 # Overview
 
 This workshop will cover:
-* An introduction to R and RStudio – getting familiar with the R language and working in the RStudio IDE (integrated development environment);
-* Learning about data structures, getting into and out of R, cleaning data, intro to data wrangling;
-* Performing basic statistical analyses and models plus formatting output (statistics and tables) from R; 
-* Visualizing data and models with ggplot2; 
-* Brief intro to making simple choropleth maps; and
-* Getting started writing reports/dynamic documentation (basic principle of reproducible research) using RMarkdown and knitr;
-* [time permitting] data merging including joins and restructuring rows and columns (long to wide datasets and visa-versa); introduction to other reporting and communication formats such as dashboard, websites, book-format templates and more; introduction to statistical models and analyses using R (such as linear and logistic regression); or other topics as requested by attendees.
+
+* An introduction to R and RStudio 
+    - why should I learn R?
+    - why should I learn RStudio?
+    – getting familiar with the R language and working in the RStudio IDE (integrated development environment)
+    
+* Visualizing data with ggplot2
+
+
 
 
 # DAY 1: April 21, 2022
@@ -102,12 +106,6 @@ _NOTE: For the R Markdown (RMD) Files - Right Click on the Link and Choose "Save
 * [Book: Statistical Inference via Data Science](https://moderndive.com/)
 * [Book: The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html)
 
-# Workshop Instructor:
 
-* [Melinda Higgins, PhD](https://melindahiggins.netlify.app/)
-    - Director Biostatistics and Data Core
-    - Office of Nursing Research
-    - School of Nursing - Emory University
-    - [melinda.higgins@emory.edu](mailto:melinda.higgins@emory.edu)
 
 
