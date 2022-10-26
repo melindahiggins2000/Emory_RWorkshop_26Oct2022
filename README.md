@@ -22,74 +22,59 @@
 
 This workshop will cover:
 
-* An introduction to R and RStudio 
-    - why should I learn R?
-    - why should I learn RStudio?
-    – getting familiar with the R language and working in the RStudio IDE (integrated development environment)
-    
-* Visualizing data with ggplot2
+* Module 01
+    * An introduction to R and RStudio
+    * Learning about R Objects and data structures
+* Module 02
+    * Introduction to R packages
+    * Loading data, Saving data
+* Module 03:
+    * Data Visualization with `ggplot2` package
+* Module 04
+    * Brief Intro Data Wrangling with `dplyr` package
 
+* _[time permitting]_ Brief Intro to RMarkdown
 
+# SCHEDULE
 
-
-# DAY 1: April 21, 2022
-
------
-
-:spiral_calendar: April 21, 2022  
-:alarm_clock:     09:00 - 17:30
+`r fontawesome::fa(name = "calendar")`: October 26, 2022  
+`r emo::clock(as.POSIXct("2022-10-26 17:00:00 EDT"))`: 5:00 pm - 6:00 pm
 
 ## Schedule
 
 | Time          | Activity         |
 | :------------ | :--------------- |
-| 09:00 - 10:15 | Module 1 [[Slides]](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module01.html#1) [[Rscript]](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/module01_Rscript.R)         |
-| 10:15 - 10:30 | _Break_            |
-| 10:30 - 12:00 | Module 2 [[Slides]](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module02.html#1) [[Rscript]](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/module02_Rscript.R) |
-| Datasets: | [[abalone.csv](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/abalone.csv)] [[abalone.xlsx](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/abalone.xlsx)] [[abalone.sav](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/abalone.sav)] [[abalone.sas7bdat](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/abalone.sas7bdat)] [[abalone.RData](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/abalone.RData)] |
-| 12:00 - 13:00 | **LUNCH**            |
-| 13:00 - 14:15 | Module 3 [[Slides]](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module03.html#1) [[Rscript]](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/module03_Rscript.R)         |
-| 14:15 - 14:25 | _Break_      |
-| 14:25 - 15:30 | Module 4 [[Slides]](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module04.html#1) [[Rscript]](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/module04_Rscript.R)         |
-| 15:30 - 15:40 | _Break_      |
-| 15:40 - 17:00 | Module 5 [[Slides](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/RmarkdownEtc_Introduction.pdf)]  |
-| 17:00 - 17:30 | _Post workshop Q&A; one-on-one help_ |
+| 05:00 - 05:30 | Module 1 [Slides: [Rworkshop_26Oct2022_Module01](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module01.html)]  [R script: [module01_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module01_Rscript.R)] |
+| 05:30 - 06:00 | Module 2 [Slides: [Rworkshop_26Oct2022_Module02](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module02.html)  [R script: [module02_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module02_Rscript.R)|
+| 06:00 - 06:30 | _Dinner Break_   |
+| 06:30 - 07:00 | Module 3 [Slides: [Rworkshop_26Oct2022_Module03](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module03.html)  [R script: [module03_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module03_Rscript.R)|
+| 07:00 - 07:30 | Module 4 [Slides: [Rworkshop_26Oct2022_Module04](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module04.html)  [R script: [module04_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module04_Rscript.R)|
+
+# R packages to be used in workshop:
+
+* `tidyverse` - which includes:
+    - `ggplot2`
+    - `dplyr`
+    - `readr`
+* `palmerpenguins`
+* `gapminder`
+* `patchwork`
+* `Hmisc`
+* `psych`
+* (optional packages)
+    - `arsenal`
+    - `readxl`
+    - `haven`
+    - `foreign`
+    - `ggthemes`
+    - `ggthemr`
 
 
-# DAY 2: April 22, 2022
+# Learn more about Rmarkdown at:
 
------
-
-:spiral_calendar: April 22, 2022  
-:alarm_clock:     09:00 - 17:30
-
-## Schedule
-
-_NOTE: For the R Markdown (RMD) Files - Right Click on the Link and Choose "Save As" to save the file to your computer._
-
-| Time          | Activity         |
-| :------------ | :--------------- |
-| 09:00 - 10:15 | Module 6 [[Rscript](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/module06_Rscript.R)] [[Exercise Answers](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/module06_answers_Rscript.R)]       |
-| R Markdown Tables of Summary Stats |  [[abalone_clean.RData](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/abalone_clean.RData)]  [[RMD](https://raw.githubusercontent.com/melindahiggins2000/CDC_Rworkshop_April2022/main/abalone_table.Rmd)]  [[HTML](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/abalone_table.html)]    |
-| Extra Info on Data "Objects" |  [[Intro R Objects](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_IntroductionToRObjects_mkh.html#1)] [[Intro Factors](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_RObjectsFactors_mkh.html#1)] |
-| 10:15 - 10:30 | _Break_            |
-| 10:30 - 12:00 | Module 7 [[HTML](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/merging_datasets.html)] [[Rscript](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/module07_Rscript.R)]       |
-| Datasets: | [[data1.csv](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/data1.csv)] [[data2.csv](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/data2.csv)] [[data3.csv](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/data3.csv)] |
-| 12:00 - 13:00 | **LUNCH**            |
-| 13:00 - 14:15 | Module 8 [[HTML](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/pivot_example.html)] [[Rscript](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/module08_Rscript.R)]       |
-| Datasets: | [[long1.csv](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/long1.csv)] [[wide1.csv](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/wide1.csv)] |
-| 14:15 - 14:25 | _Break_      |
-| 14:25 - 15:30 | Module 9 [[Rscript](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/module09_Rscript.R)]     |
-| Dataset: | [[hospital_ops.csv](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/hospital_ops.csv)] |
-| R Markdown Examples | [[RMD simple](https://raw.githubusercontent.com/melindahiggins2000/CDC_Rworkshop_April2022/main/MapReport_simple.Rmd)] [[HTML simple](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/MapReport_simple.html)] [[RMD params](https://raw.githubusercontent.com/melindahiggins2000/CDC_Rworkshop_April2022/main/MapReport_params.Rmd)] [[HTML params](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/MapReport_params.html)] [[RMD params choice](https://raw.githubusercontent.com/melindahiggins2000/CDC_Rworkshop_April2022/main/MapReport_params_choice.Rmd)] [[HTML params choice](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/MapReport_params_choice.html)] |
-| 15:30 - 15:40 | _Break_      |
-| 15:40 - 17:00 | Module 10 OPEN Discussion and Help   |
-| 17:00 - 17:30 | _Post workshop Q&A; one-on-one help_ |
-
-### Learn more about parametrized reports at:
-
-* [Ch 15 in R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/params-knit.html)
-* [Ch 17 in R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/parameterized-reports.html)
+* [Rmarkdown by RStudio](https://rmarkdown.rstudio.com/)
+* [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+* [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 * Example Blog [http://jenrichmond.rbind.io/post/2021-08-31-parameterised-penguins/](http://jenrichmond.rbind.io/post/2021-08-31-parameterised-penguins/)
 * Example Document [https://rpubs.com/jenrichmond/adelie](https://rpubs.com/jenrichmond/adelie)
 

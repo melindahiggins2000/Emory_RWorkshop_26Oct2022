@@ -45,17 +45,16 @@ xaringanExtra::use_tile_view()
 
 This workshop will cover:
 
-* Module 01
-    * An introduction to R and RStudio
-    * Learning about R Objects and data structures
-* Module 02
-    * Introduction to R packages
-    * Loading data, Saving data
+* Module 01:
+    - An introduction to R and RStudio
+    - Learning about R Objects and data structures
+* Module 02:
+    - Introduction to R packages
+    - Loading data, Saving data
 * Module 03:
-    * Data Visualization with `ggplot2` package
-* Module 04
-    * Brief Intro Data Wrangling with `dplyr` package
-
+    - Data Visualization with `ggplot2` package
+* Module 04:
+    - Brief Intro Data Wrangling with `dplyr` package
 * _[time permitting]_ Brief Intro to RMarkdown
 
 ---
