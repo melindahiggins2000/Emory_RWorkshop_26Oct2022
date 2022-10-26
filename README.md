@@ -46,10 +46,10 @@ This workshop will cover:
 | Time          | Activity         |
 | :------------ | :--------------- |
 | 05:00 - 05:30 | Module 1 [Slides: [Rworkshop_26Oct2022_Module01](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module01.html)]  [R script: [module01_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module01_Rscript.R)] |
-| 05:30 - 06:00 | Module 2 [Slides: [Rworkshop_26Oct2022_Module02](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module02.html)  [R script: [module02_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module02_Rscript.R)|
+| 05:30 - 06:00 | Module 2 [Slides: [Rworkshop_26Oct2022_Module02](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module02.html)]  [R script: [module02_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module02_Rscript.R)] |
 | 06:00 - 06:30 | _Dinner Break_   |
-| 06:30 - 07:00 | Module 3 [Slides: [Rworkshop_26Oct2022_Module03](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module03.html)  [R script: [module03_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module03_Rscript.R)|
-| 07:00 - 07:30 | Module 4 [Slides: [Rworkshop_26Oct2022_Module04](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module04.html)  [R script: [module04_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module04_Rscript.R)|
+| 06:30 - 07:00 | Module 3 [Slides: [Rworkshop_26Oct2022_Module03](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module03.html)]  [R script: [module03_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module03_Rscript.R)] |
+| 07:00 - 07:30 | Module 4 [Slides: [Rworkshop_26Oct2022_Module04](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module04.html)]  [R script: [module04_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module04_Rscript.R)] |
 
 # R packages to be used in workshop:
 
