@@ -36,9 +36,11 @@ plot(x, sin(x), type = "both", col = "red")
 # [YOUR TURN] plot x and the tangent of x
 # change color to blue
 # hint: help(sin) - to see list of other trig functions
-
+plot(x, tan(x), type = "both", col = "blue")
 
 # [YOUR TURN] plot log of x with log y
 # change color to green
 # hint: help(log) - to see list of log functions
+plot(log(x), log(y), type = "both", col = "green")
 
+plot(log(x), log(y), type = "b", col = "green")

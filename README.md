@@ -20,7 +20,7 @@
 * TOC 1
 {:toc}
 
-# Overview
+# Overview of Workshop
 
 This workshop will cover:
 
@@ -47,6 +47,13 @@ This workshop will cover:
 | :------------ | :--------------- |
 | 05:00 - 05:30 | Module 1 [Slides: [Rworkshop_26Oct2022_Module01](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module01.html)]  [R script: [module01_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module01_Rscript.R)] |
 | 05:30 - 06:00 | Module 2 [Slides: [Rworkshop_26Oct2022_Module02](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module02.html)]  [R script: [module02_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module02_Rscript.R)] |
+|               | Files for optional data import/export: |
+|               | * [abalone.csv - CSV format](https://github.com/melindahiggins2000/Emory_RWorkshop_26Oct2022/raw/main/abalone.csv) |
+|               | * [abalone.RData - R Binary format](https://github.com/melindahiggins2000/Emory_RWorkshop_26Oct2022/raw/main/abalone.RData) |
+|               | * [abalone.sas7bdat - SAS format](https://github.com/melindahiggins2000/Emory_RWorkshop_26Oct2022/raw/main/abalone.sas7bdat) |
+|               | * [abalone.sav - SPSS format](https://github.com/melindahiggins2000/Emory_RWorkshop_26Oct2022/raw/main/abalone.sav) |
+|               | * [abalone.xlsx - EXCEL XLSX format](https://github.com/melindahiggins2000/Emory_RWorkshop_26Oct2022/raw/main/abalone.xlsx) |
+|               | * [abalone dataset at UCI library](https://archive.ics.uci.edu/ml/datasets/Abalone) |
 | 06:00 - 06:30 | _Dinner Break_   |
 | 06:30 - 07:00 | Module 3 [Slides: [Rworkshop_26Oct2022_Module03](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module03.html)]  [R script: [module03_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module03_Rscript.R)] |
 | 07:00 - 07:30 | Module 4 [Slides: [Rworkshop_26Oct2022_Module04](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/Rworkshop_26Oct2022_Module04.html)]  [R script: [module04_Rscript.R](https://melindahiggins2000.github.io/Emory_RWorkshop_26Oct2022/module04_Rscript.R)] |
@@ -69,7 +76,11 @@ This workshop will cover:
     - `foreign`
     - `ggthemes`
     - `ggthemr`
+* All packages available at [CRAN](https://cran.r-project.org/) - click on "Packages"
 
+# Workshop Recording
+
+Link to [workshop recording](https://echo360.org/media/f150d92a-43f2-4bc0-8d94-9f8ff9f64a7e/public)
 
 # Learn more about Rmarkdown at:
 
@@ -83,14 +94,15 @@ This workshop will cover:
 
 * [RStudio Education](https://education.rstudio.com/)
 * [Quick-R](https://www.statmethods.net/)
+* [BOOK: R in Action](https://www.manning.com/books/r-in-action)
 * [Datacamp](https://www.datacamp.com/)
 * [R for SAS Users - My Datacamp Course](https://www.datacamp.com/courses/r-for-sas-users)
 * [Coursera](https://www.coursera.org/)
 * [Reproducible Templates for Analysis and Dissemination - My Coursera Course](https://www.coursera.org/learn/reproducible-templates-analysis)
 * [Emory N741](https://melindahiggins2000.github.io/N741bigdata/)
 * [Emory N736](https://melindahiggins2000.github.io/N736/)
-* [Book: Statistical Inference via Data Science](https://moderndive.com/)
-* [Book: The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html)
+* [BOOK: Statistical Inference via Data Science](https://moderndive.com/)
+* [BOOK: The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html)
 
 
 
